@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+<---!
 Education
 ======
 * B.A. in Political Science and Mathematics, Reed College, 2018
@@ -42,3 +43,4 @@ Teaching
   
 Service and leadership
 ======
+--->
