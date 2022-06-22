@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Theodore Dounias"
+title                    : "Theodore Ntounias"
 title_separator          : "-"
-name                     : &name "Theodore Dounias"
+name                     : &name "Theodore Ntounias"
 description              : &description "PhD Student"
 url                      : https://tdounias.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Theodore Dounias"
+  name             : "Theodore Ntounias"
   avatar           : "pic.png"
   bio              : "Political Science PhD Student at UC San Diego. WEBSITE UNDER CONSTRUCTION"
   location         : "San Diego, California"
