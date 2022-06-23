@@ -1,15 +1,13 @@
 ---
-title: "Paper Title Number 1"
-collection: publications
+title: "Information and Ranked Choice Voting"
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
+date: 2022-06-25
 venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+paperurl: 'http://academicpages.github.io/files/rcv_06_2022.pdf'
 ---
-This paper is about the number 1 HEY HO PUBLICATION YAY
+_Working paper version: 06-2022_
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+Does ranked choice voting (RCV) change the information search behavior of voters? The answer to this question is important in the context of the proposed representational benefits of RCV, which I argue are conditional on voters broadening their information search. I present a theory, consistent with past work on voter behavior and information, which shows that (1) RCV is a more complex informational environment than typical single preference voting, which then predicts that (2) voters should be motivated to search for and retain more information on the candidates, and particularly on non-copartisans. This change in behavior should correspond to an increase in the cost of voting. I design a survey experiment to test this theory on a nationally diverse sample of U.S. adults. Results indicate that voters do not adapt their information search and retention behaviors, nor do they spend more cognitive effort in the process of voting.
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+[Download paper here](http://academicpages.github.io/files/rcv_06_2022.pdf)
