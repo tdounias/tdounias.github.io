@@ -1,6 +1,7 @@
 ---
 title: "Information and Ranked Choice Voting"
 permalink: /publications/2009-10-01-paper-title-number-1
+collection: publications
 date: 2022-06-25
 paperurl: 'http://tdounias.github.io/files/rcv_06_2022.pdf'
 ---
