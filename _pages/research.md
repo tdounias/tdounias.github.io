@@ -21,6 +21,10 @@ Does ranked choice voting (RCV) change the information search behavior of voters
 
 **Globalization and Political Ambiguity**, _Theodoros Ntounias, Christina J. Schneider, and Robert Thomson_
 
+Working Paper
+
+Despite the centrality of promissory representation in the study of democracy, we know little about how concerns about voters' retrospective evaluation of political parties' ability to keep campaign promises affects the form of promissory representation by political parties. We argue that political parties rely on strategic ambiguity during election campaigns to evade sanctioning by voters in future elections. We analyze the effects of globalization on strategic ambiguity of 44 political parties in 293 English language party platforms across six countries between 1970 and 2019, and find robust support for our expectations. 
+
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
