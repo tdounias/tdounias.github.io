@@ -11,11 +11,11 @@ author_profile: true
 
 Under review at the Election Law Journal
 
-_Draft: February 6th 2023_
+_Draft: May 29th 2023_
 
 Does ranked choice voting (RCV) change the information search behavior of voters? The answer to this question is important in the context of the proposed benefits of RCV, which I argue are conditional on voters broadening their information search. Results of a nationally diverse survey sample experiment indicate that voters do not adapt their information search and retention behaviors, nor do they spend more cognitive effort in the process of voting.
 
-[Download paper here](http://tdounias.github.io/files/rcv_02_2023.pdf)
+[Download paper here](http://tdounias.github.io/files/rcv_05_2023.pdf)
 
 ## Work in Progress
 
