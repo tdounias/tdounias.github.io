@@ -9,7 +9,7 @@ author_profile: true
 
 **Information and Ranked Choice Voting**, _Theodoros Ntounias_
 
-Under review at the Election Law Journal
+Revise & Resubmit at the Election Law Journal
 
 _Draft: May 29th 2023_
 
