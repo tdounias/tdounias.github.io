@@ -9,7 +9,7 @@ author_profile: true
 
 **Information and Ranked Choice Voting**, _Theodoros Ntounias_
 
-Revise & Resubmit at the Election Law Journal
+Accepted at the Election Law Journal
 
 Published in the [UCL CUSP Working Paper Series 2022](https://www.ucl.ac.uk/political-science/research/centre-us-politics-cusp/working-paper-series-american-politics/working-paper-series)
 
