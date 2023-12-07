@@ -5,15 +5,11 @@ permalink: /research/
 author_profile: true
 ---
 
-## Under Review
+## Publications
 
-**Information and Ranked Choice Voting**, _Theodoros Ntounias_
+[**Information and Ranked Choice Voting**](https://doi.org/10.1089/elj.2022.0052), _Theodoros Ntounias_
 
-Accepted at the Election Law Journal
-
-Published in the [UCL CUSP Working Paper Series 2022](https://www.ucl.ac.uk/political-science/research/centre-us-politics-cusp/working-paper-series-american-politics/working-paper-series)
-
-_Draft: May 29th 2023_
+_Election Law Journal: Rules Politics and Policy_
 
 Does ranked choice voting (RCV) change the information search behavior of voters? The answer to this question is important in the context of the proposed benefits of RCV, which I argue are conditional on voters broadening their information search. Results of a nationally diverse survey sample experiment indicate that voters do not adapt their information search and retention behaviors, nor do they spend more cognitive effort in the process of voting.
 
