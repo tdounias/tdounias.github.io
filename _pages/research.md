@@ -25,7 +25,9 @@ Recent scholarship on democratic backsliding focuses on the conditions under whi
 
 **Globalization and Political Ambiguity**, _Theodoros Ntounias, Christina J. Schneider, and Robert Thomson_
 
-_Under Review at the American Political Science Review_
+_Under Review at the APSR_
+
+Working paper available courtesy of the UC IGCC [here](https://escholarship.org/uc/item/0050h951)
 
 Despite the centrality of promissory representation in the study of democracy, we know little about how concerns about voters' retrospective evaluation of political parties' ability to keep campaign promises affects the form of promissory representation by political parties. We argue that political parties rely on strategic ambiguity during election campaigns to evade sanctioning by voters in future elections. We analyze the effects of globalization on strategic ambiguity of 44 political parties in 293 English language party platforms across six countries between 1970 and 2019, and find robust support for our expectations. 
 
