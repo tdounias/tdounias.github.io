@@ -39,6 +39,10 @@ Climate change poses a growing challenge to democracies, as the economic consequ
 
 There is a long-standing argument that public welfare and social insurance crowds out private savings and charity. There is also a newer set of arguments that private resources (home equity, credit) may dampen voters' support for public insurance programs and redistributive taxation. We investigate the "substitution hypothesis" in the context of a novel set of workplace mutual aid arrangements--Employee Hardship Funds (EHFs). EHFs enable employers to distribute emergency cash to their workers using donations pooled from employees themselves. Hundreds of major US firms now operate these programs. We use three original surveys---including two matched to workers at specific employers with EHFs and including experiments.We find that state-level generosity in the social safety net is unrelated to worker knowledge of and support for EHFs. Experimental manipulation of EHF salience among workers at two large retailers indicates that EHFs do not displace support for public unemployment insurance or government emergency aid, regardless of the generosity of the EHF program. EHFs, as a workplace mutual aid arrangement, and government social insurance programs appear unconnected in the minds of workers.
 
+**Organized Labor and Democratic Survival**, _John S. Ahlquist, Theodoros Ntounias_
+
+Early stage work. Many have argued that labor unions are key organizations in building and defending democratic political institutions. Recent events across developed democracies cast doubt this claim. We revisit arguments linking unions and democracy at the national, sub‐national, and individual levels, using cross national survey dataset linked to unionization rates and party preference.
+
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
