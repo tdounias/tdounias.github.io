@@ -23,11 +23,11 @@ Dissertation Project
 
 Recent scholarship has increasingly argued that when countries face democratic erosion at the hands of aspiring autocrats, one of the most important bulwarks against backsliding is local government. However, the degree to which resilience can manifest at the subnational level is dependent on the ability of local officials to effectively use fiscal resources, in order to convince voters of their competence and build their power. I argue that aspiring autocrats target local revenue independence, reducing the autonomy of their opponents while increasing the resources at the disposal of their allies. I focus on the case of democratic erosion in Poland (2015-2023), presenting extensive descriptive evidence of horizontal reductions in local autonomy, but also of an opportunity structure for selective attacks on opposition municipalities. To investigate causally, I use data on municipal finances and electoral results to conduct a close elections regression discontinuity design. I find a significant effect of electing an aspiring autocrat government-aligned mayor over their opponent, on municipal level measures of autonomous revenue and decentralization, indicating that copartisans are shielded from horizontal reductions in local autonomy. This paper presents a contribution to the literature on democratic resilience, but also to the wider literature on fiscal decentralization and local government autonomy, by establishing how aspiring autocrats take advantage of subnational fiscal policy to erode democracy.
 
+[Download Chapter 2 here](https://preprints.apsanet.org/engage/apsa/article-details/68b75013728bf9025edcba67)
+
 **Globalization and Political Ambiguity**, _Theodoros Ntounias, Christina J. Schneider, and Robert Thomson_
 
 Working paper available courtesy of the UC IGCC [here](https://escholarship.org/uc/item/0050h951)
-
-_Under review at Comparative Political Studies_
 
 Despite the centrality of promissory representation in the study of democracy, we know little about how concerns about voters' retrospective evaluation of political parties' ability to keep campaign promises affects the form of promissory representation by political parties. We argue that political parties rely on strategic ambiguity during election campaigns to evade sanctioning by voters in future elections. We analyze the effects of globalization on strategic ambiguity of 44 political parties in 293 English language party platforms across six countries between 1970 and 2019, and find robust support for our expectations. 
 
