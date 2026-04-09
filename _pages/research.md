@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-## Publications
+## Publications and Book Chapters
 
 [**Information and Ranked Choice Voting**](https://doi.org/10.1089/elj.2022.0052), _Theodoros Ntounias_
 
@@ -14,6 +14,10 @@ _Election Law Journal: Rules Politics and Policy_
 Does ranked choice voting (RCV) change the information search behavior of voters? The answer to this question is important in the context of the proposed benefits of RCV, which I argue are conditional on voters broadening their information search. Results of a nationally diverse survey sample experiment indicate that voters do not adapt their information search and retention behaviors, nor do they spend more cognitive effort in the process of voting.
 
 [Download paper here](http://tdounias.github.io/files/rcv_05_2023.pdf)
+
+[**Blurring the Clarity of Political Communication**](https://www.cambridge.org/gb/universitypress/subjects/politics-international-relations/comparative-politics/promises-made-promises-kept-democratic-politics-globalized-world#description), _Theodoros Ntounias, Christina J. Schneider, and Robert Thomson_
+
+Book chapter in _Promises Made, Promises Kept?: Democratic Politics in a Globalized World_ by Christina J. Schneider and Robert Thomson, published by Cambridge University Press.
 
 ## Work in Progress
 
