@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Theodoros Ntounias"
 title_separator          : "-"
 name                     : &name "Theodoros Ntounias"
-description              : &description "PhD Student"
+description              : &description "PhD Candidate"
 url                      : https://tdounias.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "tdounias.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Theodoros Ntounias"
   avatar           : "pic.png.JPG"
-  bio              : "Political Science PhD Student at UC San Diego."
+  bio              : "Political Science PhD Candidate at UC San Diego."
   location         : "San Diego, California"
   employer         :
   pubmed           : 
