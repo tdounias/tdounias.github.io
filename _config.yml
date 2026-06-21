@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Theodoros Ntounias"
 title_separator          : "-"
 name                     : &name "Theodoros Ntounias"
-description              : &description "PhD Candidate"
+description              : &description "Postdoctoral Research Fellow"
 url                      : https://tdounias.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "tdounias.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Theodoros Ntounias"
   avatar           : "pic.png.JPG"
-  bio              : "Political Science PhD Candidate at UC San Diego."
-  location         : "San Diego, California"
+  bio              : "Postdoctoral Research Fellow at the Skalny Center for Polish and Central European Studies, University of Rochester"
+  location         : "Rochester, New York"
   employer         :
   pubmed           : 
   googlescholar    : 
