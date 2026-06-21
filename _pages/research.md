@@ -45,6 +45,8 @@ There is a long-standing argument that public welfare and social insurance crowd
 
 **Labor Unions are not the 'Bulwark of Democracy'**, _John S. Ahlquist, Theodoros Ntounias_
 
+Working paper available courtesy of the UC IGCC [here](https://ucigcc.org/publication/labor-unions-are-not-the-bulwark-of-democracy/)
+
 In the face of contemporary democratic backsliding, are labor unions the "bulwark of democracy" that some have claimed? We decompose this into two analytically distinct phases: prevention and resistance. We argue that unions' traditional market, associational, and social power has declined to the point where their preventative influence is quite weak. As market and associational power has declined, institutional power is vulnerable, even where union membership remains high. Empirically, we show that union density and coverage are uncorrelated with antidemocratic party vote shares across the OECD. In looking at resistance, we examine 11 episodes of 21st Century democratic backsliding. In none of those cases were existing labor unions key players in resisting democratic erosion. In some instances, major unions were willing to capitulate to or even collaborate with increasingly undemocratic governments. Unions are not currently a reliable bulwark against backsliding, although they can and should be important parts of broader pro-democracy coalitions.
 
 
